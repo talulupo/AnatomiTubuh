@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Bab2_OrganTubuh3" size="10.000000 7.071571" />
+    <ImageTarget name="Bab2_OrganTubuh2" size="10.000000 7.068720" />
+    <ImageTarget name="Bab2_OrganTubuh1" size="10.000000 7.068720" />
+    <ImageTarget name="TulangBadanBagianAtas" size="10.000000 7.070146" />
+    <ImageTarget name="TulangTengkorak" size="10.000000 7.068720" />
+    <ImageTarget name="EvaluasiPilihan" size="10.000000 7.069555" />
+    <ImageTarget name="TulangKaki" size="10.000000 7.070146" />
+    <ImageTarget name="TulangTangan" size="10.000000 7.070146" />
+    <ImageTarget name="TulangBadanBagianBawah" size="10.000000 7.070146" />
+  </Tracking>
+</QCARConfig>
